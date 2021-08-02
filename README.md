@@ -31,16 +31,17 @@ Originally was written in korean, I converted it to eng. Comments in scripts are
 
 5. Chat now!
 
-  ![image](https://user-images.githubusercontent.com/26041217/127818292-7068b5c5-827e-4807-85e0-a4f80b595836.png)
+  ![image](https://user-images.githubusercontent.com/26041217/127828697-cdefb303-ba0d-4323-b2bb-d702199560f6.png)
 
 ---
 
 6. Send terminator command to stop it
 
-  ![image](https://user-images.githubusercontent.com/26041217/127818336-9e7389bb-4c2b-4294-a62d-fecc75409960.png)
+  ![image](https://user-images.githubusercontent.com/26041217/127828733-e7d2c045-d499-42a4-bfd4-0974b42f21cc.png)
 
 ---
 
-7. Check generated log file (*.rtf)
+7. Check generated log file (uses *.rtf because only text viewer other than it was word there)
 
-  ![image](https://user-images.githubusercontent.com/26041217/127818655-4497377a-c651-4801-b1bd-fcf25e4e12c6.png)
+  ![image](https://user-images.githubusercontent.com/26041217/127828872-08b9cec9-9c86-4171-a814-38847f69d0f8.png)
+  
